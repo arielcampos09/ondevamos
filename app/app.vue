@@ -244,7 +244,7 @@ onMounted(async () => {
 
 <template>
   <div class="min-h-screen bg-gradient-to-br from-red-900 to-slate-700
-              flex items-center justify-center px-4">
+              flex items-center justify-center px-4 py-8">
 
     <div class="w-full max-w-md bg-white/10 backdrop-blur-lg
                rounded-2xl p-8 text-center shadow-2xl">
