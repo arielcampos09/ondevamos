@@ -268,7 +268,7 @@ onMounted(async () => {
           Onde vamos hoje?
         </h1>
 
-        <h3 class="text-2xl  text-white mb-5">
+        <h3 class="text-xl  text-white mb-5">
           Eles estão curiosos pra saber
         </h3>
 
@@ -324,7 +324,7 @@ onMounted(async () => {
                    border border-white text-white
                    hover:bg-white/10 transition-all"
           >
-            Já fomos nesse :( quero sortear novamente
+            Já fomos nesse :( quero sortear de novo
           </button>
           <p v-if="erroSenha" class="text-red-300 text-sm mt-2">{{ erroSenha }}</p>
         </div>
