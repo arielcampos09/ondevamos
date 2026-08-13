@@ -50,7 +50,7 @@ const sorteando = ref(false)
 const sorteado = ref(false)
 
 const bloqueado = ref(false)
-const bypass = ref(true)
+const bypass = ref(false)
 const diasRestantes = ref(0)
 const desbloqueadoPorSenha = ref(false)
 const senhaInput = ref('')
